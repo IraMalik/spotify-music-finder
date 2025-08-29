@@ -4,9 +4,7 @@ A React application that lets you search for your favourite artists and explore 
 
 ## 📹 Demo
 
-[![Watch Demo](./screenshot.png)](https://github.com/IraMalik/spotify-music-finder/blob/main/spotifymusicfinder.mov)
-
-Click the image above to watch the demo.
+![Watch Demo](./spotifymusicfinder.gif)
 
 
 ## 🚀 Features
